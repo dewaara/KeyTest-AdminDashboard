@@ -19,7 +19,7 @@
 
 # KeyTest-AdminDashbard 
 ----------
-->> Flutter AdminDashbard (Row Home Page Code File)
+->> Flutter AdminDashbard  (Row data, Home Page Code File)
 
 # KeyTest-AdminDashbard
 --------------- 
@@ -27,7 +27,7 @@
 
 # Screenshots:-
 -------------
-<img src="https://github.com/dewaara/KeyTest-AdminDashboard/blob/main/screenshoot/1.png" width="600" height="300" />
+<img src="https://github.com/dewaara/KeyTest-AdminDashboard/blob/main/screenshoot/1.png" width="1000" height="500" />
 
 # Follw Me:-
 ----------
